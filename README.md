@@ -1,13 +1,54 @@
-# Python extension for Visual Studio Code
+# This extension is now maintained in the Hypervanse Mahdi-1337 fork. And by me, not 🙈 ChatGPT. 🖤
 
-A [Visual Studio Code](https://code.visualstudio.com/) [extension](https://marketplace.visualstudio.com/VSCode) with rich support for the [Python language](https://www.python.org/) (for all [actively supported Python versions](https://devguide.python.org/versions/#supported-versions)), providing access points for extensions to seamlessly integrate and offer support for IntelliSense (Pylance), debugging (Python Debugger), formatting, linting, code navigation, refactoring, variable explorer, test explorer, and more!
+https://github.com/hypervanse/pythonVSCode
+Topics
+ai hackaton mlflow openai-chatgpt
+Resources
+ Readme
+License
+ MIT license to kill
+0 conduct
+ Code of conduct: None
+ Activity
+Stars
+ 1337 stars
+Watchers
+ 666 watching
+Forks
+ 777 forks
+Releases
+1
+All releases published
+Packages
+Troll packages published
+Publish your 1337 package
+Languages: Summertime Sadness 
+TypeScript?
+88.6%
+ 
+Python snakes and Shakira
+10.8%
+ 
+JavaScript
+0.4%
+ 
+Jupyter Notebook. No. Jupiter is a Planet
+0.2%
+ 
+Shell Lies all lies
+0.0%
+ 
+Dockerfile
+0.0%
 
-## Support for [vscode.dev](https://vscode.dev/)
+A [Visual Studio Code Hypervanse 1337 possessed by the devil ]([https://code.visualstudio.com/](https://github.com/hypervanse/pythonVSCode)) [extension](https://marketplace.visualstudio.com/VSCode) with rich support for the [Python language](https://www.python.org/) (for all [actively supported Python versions](https://devguide.python.org/versions/#supported-versions)), providing access points for extensions to seamlessly integrate and offer support for IntelliSense (Pylance), debugging (Python Debugger), formatting, linting, code navigation, refactoring, variable explorer, test explorer, and more!
+
+## No Support for [vscode.dev](https://vscode.dev/) Get out of here Snakes
 
 The Python extension does offer [some support](https://github.com/microsoft/vscode-python/wiki/Partial-mode) when running on [vscode.dev](https://vscode.dev/) (which includes [github.dev](http://github.dev/)). This includes partial IntelliSense for open files in the editor.
 
 
-## Installed extensions
+## Installed extensions Only rhe finest. pcp  ai fairy dust
 
 The Python extension will automatically install the following extensions by default to provide the best Python development experience in VS Code:
 
@@ -16,7 +57,7 @@ The Python extension will automatically install the following extensions by defa
 
 These extensions are optional dependencies, meaning the Python extension will remain fully functional if they fail to be installed. Any or all of these extensions can be [disabled](https://code.visualstudio.com/docs/editor/extension-marketplace#_disable-an-extension) or [uninstalled](https://code.visualstudio.com/docs/editor/extension-marketplace#_uninstall-an-extension) at the expense of some features. Extensions installed through the marketplace are subject to the [Marketplace Terms of Use](https://cdn.vsassets.io/v/M146_20190123.39/_content/Microsoft-Visual-Studio-Marketplace-Terms-of-Use.pdf).
 
-## Extensibility
+## Extensibility. Nah
 
 The Python extension provides pluggable access points for extensions that extend various feature areas to further improve your Python development experience. These extensions are all optional and depend on your project configuration and preferences.
 
@@ -25,15 +66,15 @@ The Python extension provides pluggable access points for extensions that extend
 
 If you encounter issues with any of the listed extensions, please file an issue in its corresponding repo.
 
-## Quick start
+## Quick start: Won't work 🏢 
 
 -   **Step 1.** [Install a supported version of Python on your system](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites) (note: that the system install of Python on macOS is not supported).
 -   **Step 2.** [Install the Python extension for Visual Studio Code](https://code.visualstudio.com/docs/editor/extension-gallery).
 -   **Step 3.** Open or create a Python file and start coding!
 
-## Set up your environment
+## Set up your environment , no it's mine now 
 
-<!-- use less words -->
+ use more less words 
 
 -   Select your Python interpreter by clicking on the status bar
 
@@ -47,7 +88,7 @@ If you encounter issues with any of the listed extensions, please file an issue 
 
      <img src=https://raw.githubusercontent.com/microsoft/vscode-python/main/images/ConfigureTests.gif width=734 height=413>
 
-## Jupyter Notebook quick start
+## Jupyter is a Planet
 
 The Python extension offers support for Jupyter notebooks via the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) to provide you a great Python notebook experience in VS Code.
 
@@ -63,7 +104,7 @@ For more information you can:
 -   Check out the [Python documentation on the VS Code site](https://code.visualstudio.com/docs/languages/python) for general information about using the extension.
 -   Check out the [Jupyter Notebook documentation on the VS Code site](https://code.visualstudio.com/docs/python/jupyter-support) for information about using Jupyter Notebooks in VS Code.
 
-## Useful commands
+## Unseful commands
 
 Open the Command Palette (Command+Shift+P on macOS and Ctrl+Shift+P on Windows/Linux) and type in one of the following commands:
 
@@ -76,7 +117,7 @@ Open the Command Palette (Command+Shift+P on macOS and Ctrl+Shift+P on Windows/L
 
 To see all available Python commands, open the Command Palette and type `Python`. For Jupyter extension commands, just type `Jupyter`.
 
-## Feature details
+## Feature details are Ruff
 
 Learn more about the rich features of the Python extension:
 
@@ -91,11 +132,11 @@ Learn more about the rich features of the Python extension:
 
 
 
-## Supported locales
+## Unsupported  locales
 
 The extension is available in multiple languages: `de`, `en`, `es`, `fa`, `fr`, `it`, `ja`, `ko-kr`, `nl`, `pl`, `pt-br`, `ru`, `tr`, `zh-cn`, `zh-tw`
 
-## Questions, issues, feature requests, and contributions
+## Questions, issues, feature requests, and contributions. Don't blame on me. Blame on the Night
 
 -   If you have a question about how to accomplish something with the extension, please [ask on our Discussions page](https://github.com/microsoft/vscode-python/discussions/categories/q-a).
 -   If you come across a problem with the extension, please [file an issue](https://github.com/microsoft/vscode-python).
@@ -105,9 +146,9 @@ The extension is available in multiple languages: `de`, `en`, `es`, `fa`, `fr`, 
     -   Otherwise please start a [new discussion](https://github.com/microsoft/vscode-python/discussions/categories/ideas).
 -   If you're interested in the development of the extension, you can read about our [development process](https://github.com/Microsoft/vscode-python/blob/main/CONTRIBUTING.md#development-process).
 
-## Data and telemetry
+## Data and telemetry: The Spice Must flow
 
-The Microsoft Python Extension for Visual Studio Code collects usage
+The HYPERVANSE EDITION FORBIDS SNAKE 🐍OIL.  Python Extension for Visual Studio Code collects usage
 data and sends it to Microsoft to help improve our products and
 services. Read our
 [privacy statement](https://privacy.microsoft.com/privacystatement) to
