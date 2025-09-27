@@ -73,7 +73,8 @@ If you encounter issues with any of the listed extensions, please file an issue 
 -   **Step 3.** Open or create a Python file and start coding!
 
 ## Set up your environment , no it's mine now 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ACl8s_tBzE?si=wQIG4Hkq0iP28alA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/6ACl8s_tBzE?si=wQIG4Hkq0iP28alA
  use more less words 
 
 -   Select your Python interpreter by clicking on the status bar
@@ -137,7 +138,7 @@ Learn more about the rich features of the Python extension:
 The extension is available in multiple languages: `de`, `en`, `es`, `fa`, `fr`, `it`, `ja`, `ko-kr`, `nl`, `pl`, `pt-br`, `ru`, `tr`, `zh-cn`, `zh-tw`
 
 ## Questions, issues, feature requests, and contributions. Don't blame on me. Blame on the Night
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ACl8s_tBzE?si=wQIG4Hkq0iP28alA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -   If you have a question about how to accomplish something with the extension, please [ask on our Discussions page](https://github.com/microsoft/vscode-python/discussions/categories/q-a).
 -   If you come across a problem with the extension, please [file an issue](https://github.com/microsoft/vscode-python).
 -   Contributions are always welcome! Please see our [contributing guide](https://github.com/Microsoft/vscode-python/blob/main/CONTRIBUTING.md) for more details.
